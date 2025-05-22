@@ -33,7 +33,7 @@ sokoban-game/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/sokoban-game.git
+git clone https://github.com/youssefwaheedd/sokoban-game.git
 cd sokoban-game
 ```
 
